@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+	font-family: "LuciAPavelka";
+	src: url("LuciAPavelka.ttf");
+}
+p {
+	color:#782541;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 18px;
+	line-height: 20px;
+	width: 650px;
+	background-color:rgba(220,175,198,0.8) ;
+	padding: 25px
+}
+.paragraf_2 {color:#ECDBDC; background-color: rgba(214,77,119,0.5)}
+.novi_blok {
+	background-color: rgba(232,189,190,0.5);
+	padding: 20px;
+	margin: 20px;
+	width:50%;
+}
+h1 {
+	font-family: "LuciAPavelka";
+	font-size: 70px
+}
+h2 {
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	color:#96274F
+}
+.pozadina {
+	background-image:url("slikee/ee3260e6eb1a4caa26bfff6df74a2693.jpg")
+}
+.pozadina2 {
+	background-color: #F4DBE5
+}
+a:link {
+	color: #61062A;
+	font-size: 30px;
+	background-color: #FFFFFF;
+	line-height: 40px;
+	border:1px solid #4B041F;
+}
